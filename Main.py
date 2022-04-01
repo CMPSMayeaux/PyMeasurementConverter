@@ -1,7 +1,7 @@
 # Dev. Info:
-#  - Developer: Niklaus Newport
-#  - Website: HTTPS://NiklausNewport.Dev/
-#  - E-Mail: Me@NiklausNewport.Dev (Business or Programming Related Inquiries Only)
+#  - Developer: Klaus Mayeaux
+#  - Website: HTTPS://TheNewport.dev
+#  - E-Mail: Me@TheNewport.dev (Business or Programming Related Inquiries Only)
 #
 # Program Info:
 #  - Program Name: Measurement Converter
